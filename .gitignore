@@ -1,0 +1,15 @@
+# Geral
+.DS_Store
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Node / cache
+node_modules/
+.cache/
+
+# Kubernetes / Kind
+*.kubeconfig
+
