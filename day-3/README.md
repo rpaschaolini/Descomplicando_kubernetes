@@ -237,7 +237,7 @@ strategy:
 
 Pode causar indisponibilidade
 
-⏪ Rollback de Deployment
+ Rollback de Deployment
 
 Para voltar versão:
 
